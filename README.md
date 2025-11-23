@@ -11,7 +11,7 @@ Add/register students ,Store student details such as name, class, ID, and phone 
 Issue books to registered students , Maintain detailed issue records with dates
 Contains separate modules for Books,Students,Issue records,Book manager,Student manager,Issue manager,Menu system ,Utility functions
 
-Technologies used
+Technologies used:
 Language	Python 3
 Paradigm	OOP (Object-Oriented Programming)
 Development Tools	VS Code / PyCharm / IDLE
